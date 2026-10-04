@@ -43,3 +43,5 @@ Readings:
       -  Problems in teaching digital archaeology: students not knowing the process of ethical questioning concerning their digital outputs and in the resources available to address those questions
       -  Digital tools and digital methodologies have yet to be synthesized fully into archaeological disucssion
       -  Digital archaeologits have a responsibility to consider the ethical burdens of our research, as well as the tools and methodologies that we utilize to accomplish our knowledge production goals
+   - 3. Note on Mortuary Archaeology
+   - 4. Link broken to: Huggett, J. (2026) ‘Ethics and Digital Archaeology’, in E. Barker, O. Bobou, and R. Raja (eds) The Oxford Handbook of Digital Classical Studies. Oxford: Oxford University Press, pp. 136–148 
